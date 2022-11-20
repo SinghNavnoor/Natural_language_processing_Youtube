@@ -12,6 +12,7 @@
 - GaussianNB
 
 ## Results:
-Count Vectorizer with the Multinomial NB is the best model. 
+Count Vectorizer with the Multinomial NB is the best model. It was able to predict the categories with great accuracy.
+
 Training set result: 99 %
 Testing set result: 96 %
